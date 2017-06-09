@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=9" />
+    <link rel="stylesheet" href="__ROOT__/Public/css/bootstrap.min.css">
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="__ROOT__/Public/js/ie8-responsive-file-warning.js"></script>
+    <script type="text/javascript" src="__ROOT__/Public/js/html5shiv.js"></script>
+    <script type="text/javascript" src="__ROOT__/Public/js/respond.min.js"></script>
+    <![endif]-->
+    <title></title>
+    <style>
+        .container-fluid{padding-left: 50px}
+        .form-control{border-radius: 1px}
+        label{ font-weight:normal; }
+        .biao{margin-bottom: 20px;}
+        .anNiu{margin-top: 20px}
+        .gTable {
+            margin: 30px auto 0;
+            text-align: center;
+            width: 100%;
+        }
+        .gTable th{
+            text-align: center;
+            font-family: "黑体";
+            font-size: 14px;
+            font-weight: bold;
+        }
+        .weizhi{height:44px;width:100%;background-color: #F1F1F1;}
+        .weizhi_title{white-space:nowrap;height:44px;width:100px;padding:0 10px 0;background-color: #fff;cursor: pointer;text-align: center;line-height: 44px;}
+    </style>
+</head>
+<body style="margin-bottom: 25px">
+<div class="weizhi">
+    <div class="weizhi_title">
+        <span class="glyphicon glyphicon-home"></span>通知公告
+    </div>
+</div>
+
+<div class="container-fluid padTa">
+    <table class="table gTable table-bordered">
+        <tr class="bg-primary">
+            <th class="col-xs-2">序号</th>
+            <th class="col-xs-6">标题</th>
+            <th class="col-xs-2">发布日期</th>
+            <th class="col-xs-2">详情</th>
+        </tr>
+        <volist name="data" id="vo">
+           <tr>
+                <td>{$i+($page-1)*10}</td>
+                <td style="white-space: nowrap;text-overflow: ellipsis;">{$vo.title}</td>
+                <td>{$vo.date}</td>
+                <td id="shenpi1"><span class="glyphicon glyphicon-file" style="color: green;"></span>
+                    <a href="{:U('Admin/informContent')}?id={$vo.id}">详情</a>
+                </td>
+            </tr>
+        </volist>
+    </table>
+    <div class="row">
+       <div class="col-sm-5 col-sm-offset-2" style="text-align: center">
+            <ul class="pagination">
+                <if condition="$page gt 1">
+                     <li><a href="{:U('Admin/inform')}?page={$page-1}">&laquo;</a></li>
+                </if>
+                <for start="0" end="$allPage">
+                    <li><a class="x{$i+1} "  href="{:U('Admin/inform')}?page={$i+1}">{$i+1}</a></li>
+                </for>
+                <if condition="$page lt $allPage">
+                      <li><a href="{:U('Admin/inform')}?page={$page+1}">&raquo;</a></li>
+                </if>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<script src="__ROOT__/Public/js/jquery.min.js"></script>
+<script src="__ROOT__/Public/js/bootstrap.min.js"></script>
+</body>
+</html>

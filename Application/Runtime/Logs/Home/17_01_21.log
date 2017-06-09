@@ -1,0 +1,1528 @@
+[ 2017-01-21T16:50:59+08:00 ] ::1 /kexie/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-01-21T16:51:11+08:00 ] ::1 /kexie/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2017-01-21T16:51:40+08:00 ] ::1 /kexie/mima.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000047s ]
+ERR: 无法加载控制器:Mima
+
+[ 2017-01-21T16:51:48+08:00 ] ::1 /kexie/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2017-01-21T16:54:59+08:00 ] ::1 /kexie/Home/Index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000076s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-01-21T16:55:42+08:00 ] ::1 /kexie/home/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-01-21T16:55:49+08:00 ] ::1 /kexie/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2017-01-21T16:56:14+08:00 ] ::1 /kexie/index.php/home/index/hello?name=thinkphp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-01-21T16:56:21+08:00 ] ::1 /kexie/index.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2017-01-21T16:56:28+08:00 ] ::1 /kexie/index.php/home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-01-21T16:56:33+08:00 ] ::1 /kexie/index.php/Home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-01-21T19:04:17+08:00 ] ::1 /kexie/home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000115s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-01-21T19:04:40+08:00 ] ::1 /kexie/index%E3%80%82php/home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 无法加载控制器:Index。php
+
+[ 2017-01-21T19:04:48+08:00 ] ::1 /kexie/index.php/home/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 无法加载控制器:Home
+
+[ 2017-01-21T19:04:57+08:00 ] ::1 /kexie/index/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-01-21T19:05:06+08:00 ] ::1 /kexie/User/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-01-21T19:09:35+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-01-21T19:09:35+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-01-21T19:09:39+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-01-21T19:09:41+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:09:48+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-01-21T19:09:49+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-01-21T19:09:52+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:09:54+08:00 ] ::1 /kexie/Admin/chaXunYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 非法操作:chaxunyonghu
+
+[ 2017-01-21T19:09:56+08:00 ] ::1 /kexie/Admin/faBuGongGao.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 非法操作:fabugonggao
+
+[ 2017-01-21T19:09:56+08:00 ] ::1 /kexie/Admin/yiFaTongZhi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 非法操作:yifatongzhi
+
+[ 2017-01-21T19:09:58+08:00 ] ::1 /kexie/Admin/weiShenPi.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 非法操作:weishenpi
+
+[ 2017-01-21T19:10:10+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:10:12+08:00 ] ::1 /kexie/Admin/chaXunYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 非法操作:chaxunyonghu
+
+[ 2017-01-21T19:10:12+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:10:13+08:00 ] ::1 /kexie/Admin/chaXunYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 非法操作:chaxunyonghu
+
+[ 2017-01-21T19:10:13+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:10:14+08:00 ] ::1 /kexie/Admin/chaXunYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 非法操作:chaxunyonghu
+
+[ 2017-01-21T19:10:14+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:10:14+08:00 ] ::1 /kexie/Admin/chaXunYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 非法操作:chaxunyonghu
+
+[ 2017-01-21T19:10:15+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:10:15+08:00 ] ::1 /kexie/Admin/chaXunYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 非法操作:chaxunyonghu
+
+[ 2017-01-21T19:10:16+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:10:18+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:26:01+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:26:02+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:26:03+08:00 ] ::1 /kexie/Admin/chaXunYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+ERR: 非法操作:chaxunyonghu
+
+[ 2017-01-21T19:26:06+08:00 ] ::1 /kexie/Admin/zengTianXinYongHu.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 非法操作:zengtianxinyonghu
+
+[ 2017-01-21T19:26:08+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-01-21T19:26:09+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-01-21T19:26:11+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-01-21T19:26:11+08:00 ] ::1 /kexie/admin/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 非法操作:css
+
+[ 2017-01-21T19:26:11+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:26:11+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:26:11+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000101s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:26:15+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-01-21T19:26:15+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:26:15+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:26:15+08:00 ] ::1 /kexie/admin/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 非法操作:css
+
+[ 2017-01-21T19:26:15+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:26:24+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-01-21T19:26:24+08:00 ] ::1 /kexie/admin/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+ERR: 非法操作:css
+
+[ 2017-01-21T19:26:24+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:26:24+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:27:35+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+
+[ 2017-01-21T19:27:36+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+
+[ 2017-01-21T19:27:37+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-01-21T19:27:39+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-01-21T19:27:39+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:27:39+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:27:44+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+
+[ 2017-01-21T19:27:44+08:00 ] ::1 /kexie/admin/css/bootstrap.min.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 非法操作:css
+
+[ 2017-01-21T19:27:44+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:27:44+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:27:45+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:30+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-01-21T19:30:30+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-01-21T19:30:31+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-01-21T19:30:33+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-01-21T19:30:33+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:33+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:34+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-01-21T19:30:34+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:34+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:34+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:52+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-01-21T19:30:52+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:52+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:52+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:52+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:56+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+
+[ 2017-01-21T19:30:56+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:56+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:56+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:56+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-01-21T19:30:56+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:56+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:56+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:57+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-01-21T19:30:57+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000116s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:57+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:58+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-01-21T19:30:58+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:58+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:30:58+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:31:00+08:00 ] ::1 /kexie/Admin/faBuGongGao.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 非法操作:fabugonggao
+
+[ 2017-01-21T19:31:02+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-01-21T19:31:03+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:31:03+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T19:31:03+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:12:20+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-01-21T20:12:20+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:12:20+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:12:24+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+
+[ 2017-01-21T20:12:24+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:12:24+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:12:25+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-01-21T20:12:25+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:12:25+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:12:26+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000050s ]
+
+[ 2017-01-21T20:12:26+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:12:26+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:12:26+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:13:36+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-01-21T20:13:36+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000165s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:13:36+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000139s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:13:36+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:13:36+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:51:40+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-01-21T20:51:40+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-01-21T20:51:41+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-01-21T20:51:42+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+
+[ 2017-01-21T20:51:42+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000155s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:51:42+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T20:51:54+08:00 ] ::1 /kexie/user/insert1.html?user=17865313062&unit=%E5%A4%A7%E5%AD%A6&status=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000051s ]
+
+[ 2017-01-21T21:09:36+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-01-21T21:09:36+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000102s ]
+
+[ 2017-01-21T21:09:37+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-01-21T21:09:38+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:09:38+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000091s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:09:44+08:00 ] ::1 /kexie/user/insert1.html?user=6&unit=%E5%A4%A7%E5%AD%A6&status=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000106s ]
+
+[ 2017-01-21T21:16:13+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-01-21T21:16:13+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+
+[ 2017-01-21T21:16:15+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-01-21T21:16:15+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:16:15+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:16:25+08:00 ] ::1 /kexie/user/insert1.html?user=17865313062&unit=666&status=0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000081s ]
+
+[ 2017-01-21T21:19:04+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-01-21T21:19:05+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-01-21T21:19:06+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-01-21T21:19:06+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:19:06+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000109s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:19:19+08:00 ] ::1 /kexie/user/insert1.html?user=17865313062&unit=%E5%A4%A7%E5%AD%A6&status=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 1048:Column 'user' cannot be null
+ [ SQL语句 ] : INSERT INTO `rs_user` (`user`,`unit`,`pwd`,`status`) VALUES (NULL,NULL,'e10adc3949ba59abbe56e057f20f883e',NULL)
+
+[ 2017-01-21T21:20:04+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-01-21T21:20:04+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-01-21T21:20:06+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-01-21T21:20:06+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:20:06+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:20:14+08:00 ] ::1 /kexie/user/insert1.html?user=17865313062&unit=%E5%A4%A7%E5%AD%A6&status=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 1048:Column 'user' cannot be null
+ [ SQL语句 ] : INSERT INTO `rs_user` (`user`,`unit`,`pwd`,`status`) VALUES (NULL,NULL,'e10adc3949ba59abbe56e057f20f883e',NULL)
+
+[ 2017-01-21T21:21:50+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-01-21T21:21:51+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+
+[ 2017-01-21T21:21:52+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-01-21T21:21:52+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:21:52+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:21:52+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000111s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:22:01+08:00 ] ::1 /kexie/user/insert1.html?user=17865313062&unit=%E5%A4%A7%E5%AD%A6&status=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-01-21T21:23:39+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+
+[ 2017-01-21T21:23:39+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-01-21T21:23:40+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000232s ]
+
+[ 2017-01-21T21:23:40+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000104s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:23:40+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:23:45+08:00 ] ::1 /kexie/user/insert1.html?user=17865313062&unit=%E5%A4%A7%E5%AD%A6&status=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-01-21T21:24:55+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+
+[ 2017-01-21T21:24:55+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000085s ]
+
+[ 2017-01-21T21:24:57+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-01-21T21:24:57+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:24:57+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:25:02+08:00 ] ::1 /kexie/user/insert1.html?user=17865313062&unit=%E5%A4%A7%E5%AD%A6&status=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+
+[ 2017-01-21T21:27:16+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+
+[ 2017-01-21T21:27:16+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000087s ]
+
+[ 2017-01-21T21:27:17+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-01-21T21:27:19+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-01-21T21:27:19+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000090s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:27:19+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000208s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:27:24+08:00 ] ::1 /kexie/user/insert1.html?user=17865313062&unit=%E5%A4%A7%E5%AD%A6&status=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+
+[ 2017-01-21T21:28:10+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+
+[ 2017-01-21T21:28:10+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:28:10+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:28:10+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:28:10+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:28:14+08:00 ] ::1 /kexie/user/insert1.html?user=17865313062&unit=%E5%A4%A7%E5%AD%A6&status=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+
+[ 2017-01-21T21:30:46+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+
+[ 2017-01-21T21:30:46+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+
+[ 2017-01-21T21:30:48+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+
+[ 2017-01-21T21:30:48+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000099s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:30:48+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000098s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:30:52+08:00 ] ::1 /kexie/user/insert1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000145s ]
+
+[ 2017-01-21T21:33:20+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+
+[ 2017-01-21T21:33:20+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+
+[ 2017-01-21T21:33:22+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000083s ]
+
+[ 2017-01-21T21:33:22+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:33:22+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:33:27+08:00 ] ::1 /kexie/user/insert1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2017-01-21T21:36:23+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+
+[ 2017-01-21T21:36:23+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-01-21T21:36:24+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+
+[ 2017-01-21T21:36:24+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000074s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:36:24+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:36:30+08:00 ] ::1 /kexie/user/insert1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-01-21T21:38:24+08:00 ] ::1 /kexie/Admin/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2017-01-21T21:38:24+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-01-21T21:38:26+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+
+[ 2017-01-21T21:38:26+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:38:26+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:38:30+08:00 ] ::1 /kexie/user/insert1.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2017-01-21T21:38:32+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000048s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:38:32+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000175s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:38:41+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2017-01-21T21:38:41+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:38:41+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:39:01+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2017-01-21T21:39:01+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:39:01+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:39:01+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:39:01+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:39:03+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2017-01-21T21:39:03+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:39:03+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000082s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:39:03+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:39:05+08:00 ] ::1 /kexie/admin/xiuGaiYongHuXiXin.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 非法操作:xiugaiyonghuxixin
+
+[ 2017-01-21T21:39:11+08:00 ] ::1 /kexie/admin/adduser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2017-01-21T21:39:11+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000064s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000231s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:39:11+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000049s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:40:01+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+
+[ 2017-01-21T21:40:01+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:40:01+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:40:01+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000163s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T21:40:01+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T22:19:44+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000118s ]
+ERR: 非法操作:read
+
+[ 2017-01-21T22:19:59+08:00 ] ::1 /kexie/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+
+[ 2017-01-21T22:20:14+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 非法操作:read
+
+[ 2017-01-21T22:20:49+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+
+[ 2017-01-21T22:24:41+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 模板不存在:./Application/Home/View/User/read.html
+
+[ 2017-01-21T22:25:03+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000100s ]
+
+[ 2017-01-21T22:30:47+08:00 ] ::1 /kexie/User
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2017-01-21T22:30:48+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000038s ]
+ERR: 模板不存在:./Application/Home/View/User/read.html
+
+[ 2017-01-21T22:30:48+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T22:30:48+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T22:30:50+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+
+[ 2017-01-21T22:30:53+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2017-01-21T22:30:54+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+
+[ 2017-01-21T22:30:56+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2017-01-21T22:30:56+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T22:30:56+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000079s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T22:30:57+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2017-01-21T22:30:57+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T22:30:57+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T22:30:57+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T22:30:58+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+
+[ 2017-01-21T22:30:58+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T22:30:58+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000046s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T22:30:58+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000044s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T22:59:44+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+
+[ 2017-01-21T22:59:58+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000112s ]
+
+[ 2017-01-21T23:00:18+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2017-01-21T23:02:32+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000096s ]
+
+[ 2017-01-21T23:02:32+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+
+[ 2017-01-21T23:02:33+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+
+[ 2017-01-21T23:02:33+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000041s ]
+
+[ 2017-01-21T23:06:18+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000088s ]
+
+[ 2017-01-21T23:21:40+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000043s ]
+ERR: 模板不存在:./Application/Home/View/User/read.html
+
+[ 2017-01-21T23:32:31+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000042s ]
+ERR: 模板不存在:./Application/Home/View/User/read.html
+
+[ 2017-01-21T23:33:12+08:00 ] ::1 /kexie/User/read
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000084s ]
+
+[ 2017-01-21T23:56:25+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000131s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T23:56:25+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000045s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T23:56:28+08:00 ] ::1 /kexie/admin/inform.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000039s ]
+
+[ 2017-01-21T23:56:32+08:00 ] ::1 /kexie/admin/alluser.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000040s ]
+
+[ 2017-01-21T23:56:32+08:00 ] ::1 /kexie/admin/js/jquery.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+ERR: 非法操作:js
+
+[ 2017-01-21T23:56:32+08:00 ] ::1 /kexie/admin/js/bootstrap.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+ERR: 非法操作:js
+

@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=9" />
+    <!--[if lt IE 9]>
+    <script type="text/javascript" src="__ROOT__/Public/js/ie8-responsive-file-warning.js"></script>
+    <script type="text/javascript" src="__ROOT__/Public/js/html5shiv.js"></script>
+    <script type="text/javascript" src="__ROOT__/Public/js/respond.min.js"></script>
+    <![endif]-->
+    <title></title>
+    <link href="__ROOT__/Public/css/css.css" rel="stylesheet" type="text/css"/>
+    <link href="__ROOT__/Public/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+    <link href="__ROOT__/Public/chajian/css/video-js.css" rel="stylesheet">
+    <!-- If you'd like to support IE8 -->
+    <script src="__ROOT__/Public/chajian/js/videojs-ie8.min.js"></script>
+    <style>
+        .weizhi{height:44px;width:100%;background-color: #F1F1F1;}
+        .weizhi_title{white-space:nowrap;height:44px;width:100px;padding:0 10px 0;background-color: #fff;cursor: pointer;text-align: center;line-height: 44px;}
+        .m{ width: 1100px; height: 600px; margin-left: auto; margin-right: auto; margin-top: 20px; }
+    </style>
+</head>
+<body>
+<div class="weizhi">
+    <div class="weizhi_title">
+        <span class="glyphicon glyphicon-volume-up"></span>课程视频
+    </div>
+</div>
+<div class="container-fluid">
+    <div class="row" style="margin-top: 30px;">
+        <div class="col-xs-3"></div>
+        <div class="col-xs-3"></div>
+    </div>
+        <button  class="btn btn-default" onclick="history.go(-1)">返 回</button>
+    <div class="container" style="margin-top: 30px;padding-bottom: 20px;border: 1px solid #eee;box-shadow: 1px 1px 1px #eee;">
+    <div class="m">
+        <video id="my-video" class="video-js" controls preload="auto" width="1100" height="600"
+          poster="MY_VIDEO_POSTER.jpg" data-setup="{}">
+            <source src="http://vjs.zencdn.net/v/oceans.mp4" type="video/mp4">
+            <source src="http://vjs.zencdn.net/v/oceans.webm" type="video/webm">
+            <source src="http://vjs.zencdn.net/v/oceans.ogv" type="video/ogg">
+            <p class="vjs-no-js">
+              To view this video please enable JavaScript, and consider upgrading to a web browser that
+              <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a>
+            </p>
+          </video>
+          <script src="http://vjs.zencdn.net/5.18.4/video.min.js"></script> 
+          <script type="text/javascript">
+            var myPlayer = videojs('my-video');
+            videojs("my-video").ready(function(){
+                var myPlayer = this;
+                myPlayer.play();
+            });
+        </script>
+    </div>
+</object>
+    </div>
+</div>
+
+
+</body>
+</html>
